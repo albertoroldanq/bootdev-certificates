@@ -1,1 +1,1 @@
-# bootdev-ceritifcates
+# bootdev-certificates
